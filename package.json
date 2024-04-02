@@ -5,9 +5,9 @@
   "name": "voice-changer",
   "version": "1.0.0",
   "description": "V1 Voice Changer",
-  "main": "STT-test.js",
+  "main": "index.js",
   "scripts": {
-    "test": "STT-test test"
+    "test": "index test"
   },
   "repository": {
     "type": "git",
