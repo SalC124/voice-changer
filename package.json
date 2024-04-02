@@ -1,5 +1,26 @@
 {
   "dependencies": {
     "@google-cloud/speech": "^6.3.0"
-  }
+  },
+  "name": "voice-changer",
+  "version": "1.0.0",
+  "description": "V1 Voice Changer",
+  "main": "STT-test.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "STT-test test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SalC124/voice-changer.git"
+  },
+  "keywords": [
+    "V1"
+  ],
+  "author": "SalC124",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SalC124/voice-changer/issues"
+  },
+  "homepage": "https://github.com/SalC124/voice-changer#readme"
 }
